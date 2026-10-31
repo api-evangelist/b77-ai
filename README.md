@@ -72,6 +72,35 @@ B77 is the app store for your AI assistant: hosted MCP apps for Claude, ChatGPT 
 
 Everything profiled for b77-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/b77-ai/](https://apis.io/providers/b77-ai/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [B77 Ai Authentication](https://apis.io/security/b77-ai/b77-ai-authentication/)
+- [B77 Ai Domain Security](https://apis.io/security/b77-ai/b77-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [B77 Ai Scopes](https://apis.io/scopes/b77-ai/b77-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [B77 Ai Plans Pricing](https://apis.io/plans/b77-ai/b77-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [B77 Ai Rate Limits](https://apis.io/rate-limits/b77-ai/b77-ai-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -84,7 +113,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/b77-ai/](https://apis.io/providers/b77-ai/).
+**Kin Score 13.8** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 21.1 |
+
+**Agent readiness 9.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/b77-ai/](https://apis.io/providers/b77-ai/).
 
 ## How this profile is made
 
